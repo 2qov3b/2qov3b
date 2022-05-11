@@ -7,7 +7,7 @@
 - 🔭 - 教育コンテンツ運用
 - 🌱 - 個人レッスン 
 - 😇 - 情報系コンサル
-- 🥅 - 2021 Goals: Work on Digital Transformation!🤣
+- 🥅 - 2022 Goals: Work on Digital Transformation!🤣
 - 😊 - Build impact services !!!
 </br>
 
