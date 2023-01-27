@@ -4,10 +4,10 @@
 
 
 ---
-- 🔭 - 教育コンテンツ運用
-- 🌱 - 個人レッスン 
-- 😇 - 情報系コンサル
-- 🥅 - 2022 Goals: Work on Digital Transformation!🤣
+- 🔭 - テックリードとして、メンバーの技術レビューを担当
+- 🌱 - 設計レビュー、コードレビュー、DevOps 
+- 😇 - PoC / プロトタイプ開発
+- 🥅 - 技術顧問（Slackで質問受ける
 - 😊 - Build impact services !!!
 </br>
 
