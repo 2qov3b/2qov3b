@@ -4,11 +4,11 @@
 
 
 ---
+- 😊 - Build impact services !!!
 - 🔭 - テックリードとして、メンバーの技術レビューを担当
 - 🌱 - 設計レビュー、コードレビュー、DevOps 
 - 😇 - PoC / プロトタイプ開発
-- 🥅 - 技術顧問（Slackで質問受ける
-- 😊 - Build impact services !!!
+- 🥅 - 技術顧問（Slackで質問受ける）
 </br>
 
 <br>
